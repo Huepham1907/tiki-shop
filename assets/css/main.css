@@ -190,7 +190,7 @@ input {
   border-radius: 5px;
 }
 
-.contentimg {
+.content img {
   max-width: 100%;
 }
 .content .content-1 {
@@ -212,4 +212,77 @@ input {
 .combo-sale img {
   width: 50rem;
   border-radius: 5px;
+}
+
+.category-items img {
+  width: 5rem;
+  margin-left: 2rem;
+  margin-top: 3rem;
+}
+
+.category-items p {
+  text-align: center;
+  align-items: center;
+}
+
+.category-items .col {
+  margin-left:8px;
+}
+.cards img {
+  width: 28rem;
+  border-radius:2rem;
+  margin-bottom: 4rem;
+}
+
+.brands img {
+  width: 60rem;
+  border-radius: 1rem;
+}
+
+.suggestion {
+  color: #72a3da;
+  text-align: center;
+  align-items: center;
+  cursor: pointer;
+}
+.suggestion img {
+  width: 100%;
+  height: 25rem;
+  border-radius: 1rem;
+}
+
+.products-category img {
+  width: 100%;
+  height: 100%;
+}
+
+.deal-1 {
+  margin-bottom: 4rem;
+}
+
+.deal-1 .col {
+  margin-left: 2rem;
+}
+.deal-2 {
+  margin-top: 2rem;
+}
+
+.deal-2 .col {
+  margin-left: 2rem;
+}
+
+.services img {
+  width: 38rem;
+  border-radius:2rem;
+}
+
+.product-sale .col {
+  margin-left:5rem;
+}
+.product-sale img {
+  width:5rem;
+}
+
+.products img {
+  width: 20rem;
 }
